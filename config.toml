@@ -1,0 +1,92 @@
+baseurl = "/"
+title = "Atlanta New Horizons Band"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+unsafe = "true"
+publishDir = "docs"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Practice List"
+    url = "/practice_list/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Schedule"
+    url = "/schedule/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Members"
+    url = "/Members/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Map"
+    url = "/map/"
+    weight = 5
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 7
+
+
+  [[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 8
+
+  [[menu.main]]
+    name = "More..."
+    url = "/more/"
+    weight = 9
+
+  [[menu.footer]]
+    name = "Sitemap"
+    url = "/sitemap/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Terms of Use"
+    url = "/terms/"
+    weight = 3
+
+[Params]
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+    readmore = true
+  description = "Atlanta New Horizons Band is a welcoming concert band for adult musicians of all skill levels in the Atlanta area. Rehearse, perform, and grow musically in a supportive and fun community."
+
+
+
+[Params.logo]
+  image = "img/logo.png"
+  subtitle = "Music for Life! - Your Best is Good Enough" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)

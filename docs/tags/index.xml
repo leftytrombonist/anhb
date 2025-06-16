@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Atlanta New Horizons Band</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Atlanta New Horizons Band</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 13:55:19 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marches</title>
+      <link>//localhost:1313/tags/marches/</link>
+      <pubDate>Mon, 18 Nov 2024 13:55:19 -0500</pubDate>
+      <guid>//localhost:1313/tags/marches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sousa</title>
+      <link>//localhost:1313/tags/sousa/</link>
+      <pubDate>Mon, 18 Nov 2024 13:55:19 -0500</pubDate>
+      <guid>//localhost:1313/tags/sousa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intonation</title>
+      <link>//localhost:1313/tags/intonation/</link>
+      <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
+      <guid>//localhost:1313/tags/intonation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tuning</title>
+      <link>//localhost:1313/tags/tuning/</link>
+      <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
+      <guid>//localhost:1313/tags/tuning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community Bands</title>
+      <link>//localhost:1313/tags/community-bands/</link>
+      <pubDate>Mon, 18 Nov 2024 13:53:04 -0500</pubDate>
+      <guid>//localhost:1313/tags/community-bands/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifelong Learning</title>
+      <link>//localhost:1313/tags/lifelong-learning/</link>
+      <pubDate>Mon, 18 Nov 2024 13:53:04 -0500</pubDate>
+      <guid>//localhost:1313/tags/lifelong-learning/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

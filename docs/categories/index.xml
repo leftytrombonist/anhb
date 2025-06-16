@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Atlanta New Horizons Band</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Atlanta New Horizons Band</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 13:55:19 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recordings</title>
+      <link>//localhost:1313/categories/recordings/</link>
+      <pubDate>Mon, 18 Nov 2024 13:55:19 -0500</pubDate>
+      <guid>//localhost:1313/categories/recordings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humor</title>
+      <link>//localhost:1313/categories/humor/</link>
+      <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
+      <guid>//localhost:1313/categories/humor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Micro-Lessons</title>
+      <link>//localhost:1313/categories/micro-lessons/</link>
+      <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
+      <guid>//localhost:1313/categories/micro-lessons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interviews</title>
+      <link>//localhost:1313/categories/interviews/</link>
+      <pubDate>Mon, 18 Nov 2024 13:53:04 -0500</pubDate>
+      <guid>//localhost:1313/categories/interviews/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
