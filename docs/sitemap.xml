@@ -2,91 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-06-10T09:43:06-05:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2025-06-15T17:43:06-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/practice_list/</loc>
-    <lastmod>2025-06-10T09:43:06-05:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2025-06-15T17:43:06-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/press/</loc>
+    <loc>/faq/</loc>
+    <lastmod>2025-06-15T17:43:06-05:00</lastmod>
+  </url><url>
+    <loc>/members/</loc>
+    <lastmod>2025-06-15T09:43:06-05:00</lastmod>
+  </url><url>
+    <loc>/practice_list/</loc>
+    <lastmod>2025-06-15T09:43:06-05:00</lastmod>
+  </url><url>
+    <loc>/press/</loc>
     <lastmod>2025-05-03T17:40:41-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/resources/</loc>
+    <loc>/resources/</loc>
     <lastmod>2025-05-03T17:40:41-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/faq/</loc>
-    <lastmod>2025-05-02T17:43:06-05:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/members/</loc>
-    <lastmod>2025-05-01T09:43:06-05:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/post/musicians-wanted/</loc>
+    <loc>/post/musicians-wanted/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/schedule/</loc>
+    <loc>/schedule/</loc>
     <lastmod>2025-02-24T17:43:06-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/map/</loc>
+    <loc>/map/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/black-horse-troop-march/</loc>
+    <loc>/post/black-horse-troop-march/</loc>
     <lastmod>2024-11-18T13:55:19-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-11-18T13:55:19-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/marches/</loc>
+    <loc>/tags/marches/</loc>
     <lastmod>2024-11-18T13:55:19-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/recordings/</loc>
+    <loc>/categories/recordings/</loc>
     <lastmod>2024-11-18T13:55:19-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/sousa/</loc>
+    <loc>/tags/sousa/</loc>
     <lastmod>2024-11-18T13:55:19-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-11-18T13:55:19-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/accidental-humor/</loc>
+    <loc>/post/accidental-humor/</loc>
     <lastmod>2024-11-18T13:54:57-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/humor/</loc>
+    <loc>/categories/humor/</loc>
     <lastmod>2024-11-18T13:54:57-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/improving-intonation/</loc>
+    <loc>/post/improving-intonation/</loc>
     <lastmod>2024-11-18T13:54:57-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/intonation/</loc>
+    <loc>/tags/intonation/</loc>
     <lastmod>2024-11-18T13:54:57-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/micro-lessons/</loc>
+    <loc>/categories/micro-lessons/</loc>
     <lastmod>2024-11-18T13:54:57-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tuning/</loc>
+    <loc>/tags/tuning/</loc>
     <lastmod>2024-11-18T13:54:57-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/community-bands/</loc>
+    <loc>/tags/community-bands/</loc>
     <lastmod>2024-11-18T13:53:04-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/interviews/</loc>
+    <loc>/categories/interviews/</loc>
     <lastmod>2024-11-18T13:53:04-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/jenn-ambrosiano/</loc>
+    <loc>/post/jenn-ambrosiano/</loc>
     <lastmod>2024-11-18T13:53:04-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/lifelong-learning/</loc>
+    <loc>/tags/lifelong-learning/</loc>
     <lastmod>2024-11-18T13:53:04-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/contact/</loc>
     <lastmod>2024-11-16T17:43:06-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/more/</loc>
     <lastmod>2024-11-16T17:43:06-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/more/</loc>
-    <lastmod>2024-11-16T17:43:06-05:00</lastmod>
+    <loc>/privacy-policy/</loc>
+  </url><url>
+    <loc>/terms/</loc>
+  </url><url>
+    <loc>/sitemap/</loc>
   </url>
 </urlset>

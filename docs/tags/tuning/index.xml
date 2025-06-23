@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuning on Atlanta New Horizons Band</title>
-    <link>//localhost:1313/tags/tuning/</link>
+    <link>/tags/tuning/</link>
     <description>Recent content in Tuning on Atlanta New Horizons Band</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Nov 2024 13:54:57 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/tuning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tuning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improving Intonation</title>
-      <link>//localhost:1313/post/improving-intonation/</link>
+      <link>/post/improving-intonation/</link>
       <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
-      <guid>//localhost:1313/post/improving-intonation/</guid>
+      <guid>/post/improving-intonation/</guid>
       <description>&lt;p&gt;Micro-Lesson: Mastering Intonation&#xA;Intonation-playing in tune-can be a challenge for every musician, no matter your experience level. Here are some practical tips to help you develop a more accurate ear and improve your ensemble’s sound:&lt;/p&gt;</description>
     </item>
   </channel>

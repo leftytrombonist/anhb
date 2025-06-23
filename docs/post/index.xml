@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Atlanta New Horizons Band</title>
-    <link>//localhost:1313/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Atlanta New Horizons Band</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Musicians Wanted for Adult Concert Band</title>
-      <link>//localhost:1313/post/musicians-wanted/</link>
+      <link>/post/musicians-wanted/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/musicians-wanted/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/MusiciansWanted.png&#34; alt=&#34;Musicians Wanted&#34; title=&#34;Musicians Wanted for Adult Band&#34;&gt;&lt;br&gt;&#xA;The ATLANTA NEW HORIZONS BAND, founded in April 1999, provides opportunities for adults to play music again after they had been active in school programs and then inactive for a long period. Music playing may also have been interrupted due to professional or other life circumstances. ANHB wants to invite these folks to renew their interest and passion. Now may be the time of life when you have the chance to devote it to music. We perform at a variety of venues such as churches, retirement homes, festivals etc.&lt;/p&gt;</description>
+      <guid>/post/musicians-wanted/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/MusiciansWanted.png&#34; alt=&#34;Musicians Wanted&#34; title=&#34;Musicians Wanted for Adult Band&#34;&gt;&lt;br&gt;&#xA;The ATLANTA NEW HORIZONS BAND, founded in April 1999, provides opportunities for adults to play music again after they had been active in school programs and then inactive for a long period. Music playing may also have been interrupted due to professional or other life circumstances.&lt;/p&gt;&#xA;&lt;p&gt;ANHB wants to invite these folks to renew their interest and passion. Now may be the time of life when you have the chance to devote it to music. We perform at a variety of venues such as churches, retirement homes, festivals and more.  We are welcoming players for all sections with the ability to read music.&#xA;For more information, send us a messsage. &lt;div class=&#34;contactform_div&#34;&gt;&#xD;&#xA;    &#xD;&#xA;&#xD;&#xA;&lt;br /&gt;&#xD;&#xA;&#xD;&#xA;&lt;form&#xD;&#xA;  action=&#34;https://formspree.io/f/xrbqlkjq&#34;&#xD;&#xA;  method=&#34;POST&#34;&#xD;&#xA;&gt;&#xD;&#xA;  &lt;label&gt;&#xD;&#xA;    Your email:&#xD;&#xA;    &lt;br /&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&#xD;&#xA;  &lt;br /&gt;&lt;br /&gt;&#xD;&#xA;  &lt;label&gt;&#xD;&#xA;    Your message:&#xD;&#xA;    &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;  &lt;/label&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&lt;/div&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Black Horse Troop March</title>
-      <link>//localhost:1313/post/black-horse-troop-march/</link>
+      <link>/post/black-horse-troop-march/</link>
       <pubDate>Mon, 18 Nov 2024 13:55:19 -0500</pubDate>
-      <guid>//localhost:1313/post/black-horse-troop-march/</guid>
+      <guid>/post/black-horse-troop-march/</guid>
       <description>&lt;p&gt;Composed in 1924, John Philip Sousa&amp;rsquo;s Black Horse Troop March is a vibrant tribute to the U.S. Army’s 3rd Cavalry Regiment, known as the &amp;ldquo;Black Horse Troop.&amp;rdquo; Written for their annual dinner, this march captures Sousa’s signature flair with bold brass, lively rhythms, and a spirited melody. Its galloping tempo evokes the energy of cavalry on the move, making it a favorite among bands and audiences. Check out a performance to feel the patriotic pulse of this American classic!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accidental Humor</title>
-      <link>//localhost:1313/post/accidental-humor/</link>
+      <link>/post/accidental-humor/</link>
       <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
-      <guid>//localhost:1313/post/accidental-humor/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/humor_1.jpg&#34; alt=&#34;&amp;hellip;&#34; title=&#34;a cartoon with accidentals&#34;&gt;&lt;/p&gt;</description>
+      <guid>/post/accidental-humor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/humor_1.jpg&#34; alt=&#34;&amp;hellip;&#34; title=&#34;a cartoon with accidentals&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Improving Intonation</title>
-      <link>//localhost:1313/post/improving-intonation/</link>
+      <link>/post/improving-intonation/</link>
       <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
-      <guid>//localhost:1313/post/improving-intonation/</guid>
+      <guid>/post/improving-intonation/</guid>
       <description>&lt;p&gt;Micro-Lesson: Mastering Intonation&#xA;Intonation-playing in tune-can be a challenge for every musician, no matter your experience level. Here are some practical tips to help you develop a more accurate ear and improve your ensemble’s sound:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jenn Ambrosiano</title>
-      <link>//localhost:1313/post/jenn-ambrosiano/</link>
+      <link>/post/jenn-ambrosiano/</link>
       <pubDate>Mon, 18 Nov 2024 13:53:04 -0500</pubDate>
-      <guid>//localhost:1313/post/jenn-ambrosiano/</guid>
+      <guid>/post/jenn-ambrosiano/</guid>
       <description>&lt;p&gt;In our twenty-ninth AME Podcast, we continue our quest to serve artistic excellence through a conversation with Jenn Ambrosiano, flutist, teacher, repairwomen, and community band founder.  Jenn, who was encouraged to participate with music from the excitement of her father during her public-school years and beyond, has become a strong advocate for community music.&lt;/p&gt;</description>
     </item>
   </channel>

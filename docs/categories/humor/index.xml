@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humor on Atlanta New Horizons Band</title>
-    <link>//localhost:1313/categories/humor/</link>
+    <link>/categories/humor/</link>
     <description>Recent content in Humor on Atlanta New Horizons Band</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Nov 2024 13:54:57 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/humor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/humor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accidental Humor</title>
-      <link>//localhost:1313/post/accidental-humor/</link>
+      <link>/post/accidental-humor/</link>
       <pubDate>Mon, 18 Nov 2024 13:54:57 -0500</pubDate>
-      <guid>//localhost:1313/post/accidental-humor/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/humor_1.jpg&#34; alt=&#34;&amp;hellip;&#34; title=&#34;a cartoon with accidentals&#34;&gt;&lt;/p&gt;</description>
+      <guid>/post/accidental-humor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/humor_1.jpg&#34; alt=&#34;&amp;hellip;&#34; title=&#34;a cartoon with accidentals&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

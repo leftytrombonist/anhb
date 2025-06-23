@@ -64,7 +64,7 @@
 # Footer
 - id: footer_credits
   translation:
-    "&nbsp;&nbsp;&nbsp;&nbsp;Created, designed and managed by Alan Coates"
+    "&nbsp;&nbsp;&nbsp;&nbsp;Created by A. Coates"
 
 # 404
 - id: 404_title
